@@ -21,5 +21,6 @@ whatever information I can gather from the locals and the internet.
 + Treepie
 + Laughing Thrush
 + Royal Minivet
-
++ Bulbul
++ Swallow
 
