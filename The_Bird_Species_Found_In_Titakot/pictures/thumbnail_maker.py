@@ -16,5 +16,5 @@ elif(orientation == 6):
     img = img.rotate(270, expand = True)
 
 img.thumbnail((400, 400), Image.LANCZOS)
-img.save(os.path.join("../thumbnails/", dest_filename), "jpeg")
+img.save(os.path.join("../thumbnails/", dest_filename + ".jpeg"), "jpeg")
 
