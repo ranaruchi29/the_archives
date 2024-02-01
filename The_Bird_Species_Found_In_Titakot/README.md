@@ -12,19 +12,24 @@ Bird Name | Bird Image | Bird Call | More
 :---:| :---: | :---: | :---: 
 Sparrow | | | 
 Dove | | |
-Oriental Magpie Robin | | | 
+Oriental Magpie Robin | [![Oriental Magpie Robin](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/thumbnails/oriental_magpie_robin.jpeg)](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/pictures/) | | 
 Cliff Swallow | | |
-Hoopoe | | |
+Royal Minivet | [![Royal Minivet](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/thumbnails/royal_minivet.jpeg)](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/pictures/) | |
+Little Pied Flycatcher | [![Little Pied Flycatcher](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/thumbnails/little_pied_flycatcher.jpeg)](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/pictures/) | |
+Hoopoe | [![Hoopoe](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/thumbnails/hoopoe.jpeg)](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/pictures/)| |
+Sap Sucker | [![Sap Sucker](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/thumbnails/sap_sucker.jpeg)](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/pictures/) | |
+Steppe Eagle | [![Steppe Eagle](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/thumbnails/steppe_eagle.jpeg)](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/pictures/) | |
 Indian White Eye | | |
-Myna | | |
 Babbler | | |
 Fantail | | |
 Indian White-eye | | |
 Sunbird | | |
-Blue Magpie | | |
+Common Myna | [![Common Myna](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/thumbnails/common_myna.jpeg)](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/pictures/) | |
+Blue Magpie | [![Blue Magpie](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/thumbnails/blue_magpie.jpeg)](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/pictures/) | |
 Treepie | | |
 Laughing Thrush | | |
 Royal Minivet | | |
-Bulbul | | |
-Swallow | | |
+Grey Bushchat | [![Grey Bushchat](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/thumbnails/grey_bushchat.jpeg)](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/pictures/) | |
+Bulbul | [![Bulbul](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/thumbnails/bulbul_yellow.jpeg)](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/pictures/) | |
+Bronzed Drongo | [![Bronzed Drongo](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/thumbnails/bronzed_drongo.jpeg)](https://github.com/Ajay-Singh-Rana/the_archives/blob/main/The_Bird_Species_Found_In_Titakot/pictures/) | |
 
