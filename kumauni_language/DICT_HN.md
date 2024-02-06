@@ -5,8 +5,10 @@ Kumauni Word In Hinglish | English Meaning
 A | 
 Aa/Aaj | Today 
 Aber | Delay/To be late
+Adhyab | Something deformed or not of the right shape
 Ail | In the present time, currently
 Amus | No moon night,New moon night
+Arad | Something that has cooled down
 B | 
 Bae | From
 Baha(n) | To Plough
@@ -20,6 +22,7 @@ Bho | Tomorrow
 Biraw | Cat
 Byakre/Byavkare | Evening
 Byan | To give birth
+Byaw | Night
 C | 
 Chimat | Tongs
 Chiphaw/Chiphav | Slippery
@@ -49,6 +52,7 @@ Kaik | Whose
 Kak | Uncle [i.e Father's younger brother]
 Kake/Kakai | Whom
 Kal | Deaf
+Kalkar | Used when something is too cold to give you chills
 Kani | Blind
 Kanik/Kandik | Anything that is granular in size
 Karad | Agreement (one with a godly animation)
@@ -57,12 +61,14 @@ Kasik | How
 Katak | A bite of something or something which is equal to one bite in quantity
 Kathap | Somewhere not known or far
 Kav | Black, Crow
+Ke | What
 Kid | Insect
 Kile/Kilai | Why
 Kitaul | Earthworm
 Ko | Who
-Kyap | Weird
 Kukur | Dog
+Kwail | Charcoal
+Kyap | Weird
 L |
 M | 
 N | 
@@ -74,6 +80,7 @@ Paradi-ber | Year before last year
 Porbai | Day before yesterday
 Porber | Last Year
 Pordhin | Day after tomorrow
+Patt | Tight, also used to express the strength of some action [something]
 Q | 
 R | 
 Ratti | Morning
@@ -83,6 +90,7 @@ Sha(n) | The time of twilight during sunset
 Shiru | Used for addressing cats when their name is not known
 T | 
 Terdhin | Three days after tomorrow #check
+Tu | You
 U | 
 U | That
 Ukai | To Him/Her
