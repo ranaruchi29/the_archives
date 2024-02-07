@@ -31,6 +31,7 @@ Chiphaw/Chiphav | Slippery
 D | 
 Dav/Daw | Hail
 Da(w) | A tree branch
+Dhung | Stone
 Dyo | Rain
 E | 
 F | 
@@ -55,6 +56,7 @@ Jaunkh | Leech
 K | 
 Ka/Kan | Where
 Kabhe | When
+Kafo | The fruit of Myrica Esculenta
 Kaik | Whose
 Kak | Uncle [i.e Father's younger brother]
 Kake/Kakai | Whom
@@ -84,6 +86,7 @@ Nerbai | Two days before yesterday
 Nerdhin | Two days after tomorrow
 O | 
 P | 
+Pathar | A type of flat stone usually a shale
 Paradi-ber | Year before last year
 Porbai | Day before yesterday
 Porber | Last Year
@@ -93,6 +96,7 @@ Q |
 R | 
 Ratti | Morning
 Ratti-byan | Early morning
+Rodhi/Rodi | Concrete, Gravel  |
 Roodi | Summer
 S | 
 Sha(n) | The time of twilight during sunset 
@@ -105,8 +109,11 @@ U |
 U | That
 Udyaar | Cave,Burrow
 Ugyaar | Rumination
+Ujyaad | To ruin
+Ujyad(i) | Destructive
 Ukai | To Him/Her
 Unkai | To Them [also used when addressing elders]
+Unyaas | Destruction
 V | 
 W | 
 X | 
