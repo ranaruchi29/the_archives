@@ -4,19 +4,21 @@ Kumauni Word In Hinglish | English Meaning
 :---: | :---:
 A | 
 Aa/Aaj | Today 
+Aankhar | Times ["dui aankhar" is "two times"]
 Aber | Delay/To be late
 Adhyab | Something deformed or not of the right shape
 Ail | In the present time, currently
 Amus | No moon night,New moon night
-Arad | Something that has cooled down
+Ankassi | UnspeakableArad | Something that has cooled down
 B | 
 Bae | From
 Baha(n) | To Plough
 Bai | Yesterday
 Bajyu/Baujyu/Bup | Father
 Bakhai | Times
-Bakhat | Time/Times
+Bakhat | Time,Times
 Bald | Ox
+Bayaw | Wind,Breeze
 Ber/Berae | Early/To occur before supposed time
 Bho | Tomorrow
 Biraw | Cat
@@ -27,6 +29,8 @@ C |
 Chimat | Tongs
 Chiphaw/Chiphav | Slippery
 D | 
+Dav/Daw | Hail
+Da(w) | A tree branch
 Dyo | Rain
 E | 
 F | 
@@ -37,7 +41,10 @@ Gau(r)
 Gu | Potty, Human excreta i.e. faeces
 Gun | Fart (one with sound)
 H |
+Hav/Haw | Wind,Breeze
 Hoi | Yupp,Yes, A gesture of agreement/agreeing
+Hyu(n) | Snow
+Hyun | Winter
 I | 
 Ija/Ii[pronounced 'E'] | Mother
 Indreni | Rainbow
@@ -62,6 +69,7 @@ Katak | A bite of something or something which is equal to one bite in quantity
 Kathap | Somewhere not known or far
 Kav | Black, Crow
 Ke | What
+Khankar | Ice
 Kid | Insect
 Kile/Kilai | Why
 Kitaul | Earthworm
@@ -84,15 +92,19 @@ Patt | Tight, also used to express the strength of some action [something]
 Q | 
 R | 
 Ratti | Morning
-Ratti-byan | Early morning/
+Ratti-byan | Early morning
+Roodi | Summer
 S | 
 Sha(n) | The time of twilight during sunset 
 Shiru | Used for addressing cats when their name is not known
 T | 
 Terdhin | Three days after tomorrow #check
 Tu | You
+Tushyar | Frost
 U | 
 U | That
+Udyaar | Cave,Burrow
+Ugyaar | Rumination
 Ukai | To Him/Her
 Unkai | To Them [also used when addressing elders]
 V | 
