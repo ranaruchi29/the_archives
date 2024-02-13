@@ -26,6 +26,7 @@ Byakre/Byavkare | Evening
 Byan | To give birth
 Byaw | Night
 C | 
+Chatti / Chatt | A stack of something
 Chimat | Tongs
 Chiphaw/Chiphav | Slippery
 D | 
@@ -37,8 +38,9 @@ E |
 F | 
 Fussi | Fart (one without sound)
 G |
+Ghat(aw) | A carriable stack of something (in general grass/wood) for the purpose of carrying on head/back
 Gor/Goru | Cow
-Gau(r)
+Gau(r) | Fair skinned
 Gu | Potty, Human excreta i.e. faeces
 Gun | Fart (one with sound)
 H |
@@ -64,6 +66,7 @@ Kal | Deaf
 Kalkar | Used when something is too cold to give you chills
 Kani | Blind
 Kanik/Kandik | Anything that is granular in size
+Kankhaw | A big stack of woods, a place where woods are stored as a stack 
 Karad | Agreement (one with a godly animation)
 Kasap | Don't Know
 Kasik | How
@@ -80,6 +83,7 @@ Kukur | Dog
 Kwail | Charcoal
 Kyap | Weird
 L |
+Lut | A columnar store of dry grass usually made by stacking grass surrounding a wooden pole
 M | 
 N | 
 Nerbai | Two days before yesterday
@@ -88,6 +92,8 @@ O |
 P | 
 Pathar | A type of flat stone usually a shale
 Paradi-ber | Year before last year
+Pau(v) | New leaves that are still tender
+Piruk | Pine leaves
 Porbai | Day before yesterday
 Porber | Last Year
 Pordhin | Day after tomorrow
@@ -102,6 +108,7 @@ S |
 Sha(n) | The time of twilight during sunset 
 Shiru | Used for addressing cats when their name is not known
 T | 
+Taan | Used in general for a stack of pine leaves 
 Terdhin | Three days after tomorrow #check
 Tu | You
 Tushyar | Frost
