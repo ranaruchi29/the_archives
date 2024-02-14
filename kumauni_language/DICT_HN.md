@@ -38,6 +38,7 @@ E |
 F | 
 Fussi | Fart (one without sound)
 G |
+Ghaam | Sunlight, warmth provided by sunlight
 Ghat(aw) | A carriable stack of something (in general grass/wood) for the purpose of carrying on head/back
 Gor/Goru | Cow
 Gau(r) | Fair skinned
@@ -55,6 +56,9 @@ J |
 Jagar | A special type of prayer where the dead/gods are re-animated into human bodies
 Jag(a)ri | A priest (usually belonging to lower caste<sup>1</sup>) who performs the re-animation
 Jaunkh | Leech
+Jun | Moonlight
+Jyun | Living
+Jyunali/Jyunai | Moonlit
 K | 
 Ka/Kan | Where
 Kabhe | When
@@ -79,6 +83,7 @@ Kid | Insect
 Kile/Kilai | Why
 Kitaul | Earthworm
 Ko | Who
+Kubaddar | Ill mannered
 Kukur | Dog
 Kwail | Charcoal
 Kyap | Weird
@@ -107,9 +112,15 @@ Roodi | Summer
 S | 
 Sha(n) | The time of twilight during sunset 
 Shiru | Used for addressing cats when their name is not known
+Shyaw/Shyav | Fox
+Shyav | Shady, {Finger like structures}, {immature}
+Shyo(w)/Shyov | Shadow
 T | 
-Taan | Used in general for a stack of pine leaves 
+Taan | Used in general for a stack of pine leaves
+T(a)u/Talaun | Well irrigated
+Tael | A place that recieves a considerable amount of sunlight 
 Terdhin | Three days after tomorrow #check
+Thupud | A stack of something
 Tu | You
 Tushyar | Frost
 U | 
@@ -121,6 +132,7 @@ Ujyad(i) | Destructive
 Ukai | To Him/Her
 Unkai | To Them [also used when addressing elders]
 Unyaas | Destruction
+Uparu/Upraun | Not well irrigated,A place where crops are grown without irrigation
 V | 
 W | 
 X | 
@@ -131,4 +143,5 @@ Z |
 
 ** () have been used to encapsulate letters with minor sound
 ** [] have been used to encapsulate a context/side-note
+** {} to be reviewed
 1. Shows an inclusive society with shared culture which got divided into categories somehow
