@@ -150,7 +150,7 @@ Ukai | To Him/Her
 Unkai | To Them [also used when addressing elders]
 Unyaas | Destruction
 Uparu/Upraun | Not well irrigated,A place where crops are grown without irrigation
-Upair | {On}
+Up(ai)r | {On}
 V | 
 W | 
 Walkha | That side of something or someone which is nearer to the one directing
