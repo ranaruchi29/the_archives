@@ -4,11 +4,13 @@ Kumauni Word In Hinglish | English Meaning
 :---: | :---:
 A | 
 Aa/Aaj | Today 
+aabho| nowadays
 Aankhar | Times ["dui aankhar" is "two times"]
 Aber | Delay/To be late
 Adhyab | Something deformed or not of the right shape
 A(il) | In the present time, currently
 Alit | Lazy
+ama/amma | grand mother
 Amus | No moon night,New moon night
 Ankassi | Unspeakable
 Arad | Something that has cooled down
@@ -20,11 +22,13 @@ Bajyu/Baujyu/Bup | Father
 Bakhai | Times
 Bakhat | Time,Times
 Bald | Ox
+bat| path
 Bayaaw | Wind,Breeze
 Ber/Berae | Early/To occur before supposed time
 Bhel | Arse
 Bho | Tomorrow
 Biraaw | Cat
+bubu| grand father 
 Byaakre/Byaavkare | Evening
 Byaan | To give birth
 Byaaw | Night
@@ -42,6 +46,8 @@ Dhil | Loose
 Dhung | Stone
 Dyo | Rain
 E | 
+enor| theirs
+enar kinar| sideways/ both sides
 F | 
 Fussi | Fart (one without sound)
 G |
@@ -101,6 +107,7 @@ Kid | Insect
 Kile/Kilai | Why
 Kitaul | Earthworm
 Ko | Who
+kudi/kud | home
 Kubaddar | Ill mannered
 Kukur | Dog
 Kvail | Charcoal
@@ -118,6 +125,7 @@ Nerdhin | Two days after tomorrow
 O | 
 P | 
 Paathar | A type of flat stone usually a shale
+paccha| Behind/back
 Palkhaa/Palkaakh | That side of something or someone which is nearer to the one directing
 Paraadi-ber | Year before last year
 Patt | Tight, also used to express the strength of some action [something]
