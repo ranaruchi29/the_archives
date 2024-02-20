@@ -8,7 +8,9 @@ Aankhar | Times ["dui aankhar" is "two times"]
 Aber | Delay/To be late
 Adhyab | Something deformed or not of the right shape
 A(il) | In the present time, currently
+Aala/Aali | generally used to ask for someone's return
 Alit | Lazy
+Alber| this year
 Amus | No moon night,New moon night
 Ankassi | Unspeakable
 Arad | Something that has cooled down
@@ -22,8 +24,10 @@ Bakhat | Time,Times
 Bald | Ox
 Bayaaw | Wind,Breeze
 Ber/Berae | Early/To occur before supposed time
+Bhaw| child 
 Bhel | Arse
 Bho | Tomorrow
+Bhol| feeling nice or good 
 Biraaw | Cat
 Byaakre/Byaavkare | Evening
 Byaan | To give birth
@@ -44,6 +48,10 @@ Dyo | Rain
 E | 
 F | 
 Fussi | Fart (one without sound)
+Fasak| gossip 
+Faam| to look after
+Fataak | fast
+
 G |
 Ga(un) | Village
 Gau(r) | Fair skinned
@@ -59,11 +67,15 @@ H |
 Haav/Haa(w) | Wind,Breeze
 Hankaar | {Curse of the dead} 
 Hanta(ur)/Hantar | Rag 
+Hit| asked to walk together
 Hoi | Yupp,Yes, A gesture of agreement/agreeing
+Hmor| ours
+Hgoy| 
 Hyu(n) | Snow
 Hyun | Winter
 I | 
 Ija/Ii[pronounced 'E'] | Mother
+Ik| one
 Indreni | Rainbow
 J |
 Jaagar | A special type of prayer where the dead/gods are re-animated into human bodies
@@ -107,12 +119,20 @@ Kvail | Charcoal
 Kyap | Weird
 L |
 Lampuchedi/Lambpuchadi | Blue Magpie
+Lun| salt
 Lut | A columnar store of dry grass usually made by stacking grass surrounding a wooden pole
 M | 
 Maat | Soil
 Maathi | Over, Above
 Mali | over, Above
+Mijaat/mijaata| fashion/makeup
+Mukhudi| face
 N | 
+Naheth/nahith| nhi 
+Naan| bath 
+Nang| nails
+Nathuli/Nath| A round big nose ring 
+Nijaat|
 Nerbai | Two days before yesterday
 Nerdhin | Two days after tomorrow
 O | 
@@ -167,6 +187,7 @@ Walkha/Walkaakh | That side of something or someone which is nearer to the one d
 X | 
 Y | 
 Ya(u) | This 
+Ya bati| from this place 
 Yu | Used for addressing dogs when their name is not known
 Z |
 
